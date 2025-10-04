@@ -1,6 +1,6 @@
 # free active dev badge code
 get active dev badge for ur discord account simple with this code
-
+# read code if you dont believe this is legit 
 1. download Visual Studio Code
 2. download pylance and python extensions 
 3. open file in visual studio
